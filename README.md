@@ -1,6 +1,12 @@
 # folderr-cli
 The Folderr Management CLI
 
+## DEPRECATED
+
+This repository is now deprecated and is moved to https://github.com/Folderr/foldcli
+
+## Back to the readme
+
 Useful for setting up and updating Folderr.
 
 folderr-cli is a application written in `go` and expects `go` version `1.20.2` or later (if building).
